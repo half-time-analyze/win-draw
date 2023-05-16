@@ -5,3 +5,7 @@
 reference
 
 https://itstory1592.tistory.com/10
+https://wooono.tistory.com/87
+https://heytech.tistory.com/396
+https://nsbg.tistory.com/entry/Sklearn-ConvergenceWarning-lbfgs-failed-to-converge-status1
+https://heytech.tistory.com/442
